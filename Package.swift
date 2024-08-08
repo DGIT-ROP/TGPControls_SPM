@@ -12,7 +12,6 @@ let package = Package(
         .target(
             name: "TGPControls",
             dependencies: [],
-            path: "TGPControls",
-            exclude: ["Info.plist", "TGPControls.h"])
+            path: "TGPControls")
     ]
 )
